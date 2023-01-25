@@ -7,7 +7,7 @@ The product is designed to deliver the best possible user experience with highly
 
 - 🛒 [Django Argon PRO](https://appseed.us/product/argon-dashboard-pro/django/) - `Product page` (contains payment links)
 - 👉 [Django Argon PRO](https://django-argon-dashboard-pro.appseed-srv1.com/) - `LIVE Demo`
-- 🚀 [Support](https://appseed.us/support/) via `Email` & `Discord`
+- 🚀 [Go LIVE in Minutes](https://www.youtube.com/watch?v=9OtA9Kw01yM) - `video presentation`
 
 <br /> 
 
