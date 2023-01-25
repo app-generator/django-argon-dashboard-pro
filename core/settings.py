@@ -39,7 +39,7 @@ if RENDER_EXTERNAL_HOSTNAME:
 # Application definition
 
 INSTALLED_APPS = [
-    'admin_black_pro.apps.AdminBlackProConfig',
+    'admin_argon_pro.apps.AdminArgonProConfig',
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",

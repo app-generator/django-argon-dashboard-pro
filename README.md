@@ -1,12 +1,12 @@
-# [Django Black PRO](https://appseed.us/product/black-dashboard-pro/django/)
+# [Django Argon PRO](https://appseed.us/product/argon-dashboard-pro/django/)
 
-**Django** starter styled with **[Black Dashboard PRO](https://appseed.us/product/black-dashboard-pro/django/)**, a premium `Bootstrap` Design from [Creative-Tim](https://bit.ly/3fKQZaL).
+**Django** starter styled with **[Black Dashboard PRO](https://appseed.us/product/argon-dashboard-pro/django/)**, a premium `Bootstrap` Design from [Creative-Tim](https://bit.ly/3fKQZaL).
 The product is designed to deliver the best possible user experience with highly customizable feature-rich pages. 
 
 > **NOTE**: This product `requires a License` in order to access the theme. During the purchase, a `GitHub Access TOKEN` is provided. 
 
-- 🛒 [Django Black PRO](https://appseed.us/product/black-dashboard-pro/django/) - `Product page` (contains payment links)
-- 👉 [Django Black PRO](https://django-black-dashboard-pro.appseed-srv1.com/) - `LIVE Demo`
+- 🛒 [Django Argon PRO](https://appseed.us/product/argon-dashboard-pro/django/) - `Product page` (contains payment links)
+- 👉 [Django Argon PRO](https://django-argon-dashboard-pro.appseed-srv1.com/) - `LIVE Demo`
 - 🚀 [Support](https://appseed.us/support/) via `Email` & `Discord`
 
 <br /> 
@@ -14,7 +14,7 @@ The product is designed to deliver the best possible user experience with highly
 ## Features: 
 
 - ✅ `Up-to-date Dependencies`
-- ✅ `Design`: [Django Theme Black](https://github.com/app-generator/django-admin-black-pro) - `PRO Version`
+- ✅ `Design`: [Django Theme Argon](https://github.com/app-generator/django-admin-argon-pro) - `PRO Version`
 - ✅ `Sections` covered by the design:
   - ✅ **Admin section** (reserved for superusers)
   - ✅ **Authentication**: `Django.contrib.AUTH`, Registration
@@ -25,7 +25,7 @@ The product is designed to deliver the best possible user experience with highly
 
 <br />
 
-![Django Black PRO - Premium Seed project powered by Flask.](https://user-images.githubusercontent.com/51070104/187623954-c4ade6a0-8cb2-4d2e-8698-e962621a613c.png)
+![Django Argon PRO - Premium Seed project powered by Flask.](https://user-images.githubusercontent.com/51070104/213974264-fe9250ff-7035-427b-b63f-bf69790f5a73.png)
 
 <br />
 
@@ -34,15 +34,15 @@ The product is designed to deliver the best possible user experience with highly
 > 👉 Download the code  
 
 ```bash
-$ git clone https://github.com/app-generator/django-black-dashboard-pro.git
-$ cd django-black-dashboard-pro
+$ git clone https://github.com/app-generator/django-argon-dashboard-pro.git
+$ cd django-argon-dashboard-pro
 ```
 
 <br />
 
 > Export `GITHUB_TOKEN` in the environment. The value is provided by AppSeed during purchase. 
 
-This is required because the project has a private REPO dependency: `github.com/app-generator/priv-django-admin-black-pro`
+This is required because the project has a private REPO dependency: `github.com/app-generator/priv-django-admin-argon-pro`
 
 ```bash
 $ export GITHUB_TOKEN='TOKEN_HERE'  # for Linux, Mac
@@ -102,4 +102,4 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 <br />
 
 ---
-[Django Black PRO](https://appseed.us/product/black-dashboard-pro/django/) - **Django** starter provided by **[AppSeed](https://appseed.us/)**
+[Django Argon PRO](https://appseed.us/product/argon-dashboard-pro/django/) - **Django** starter provided by **[AppSeed](https://appseed.us/)**
