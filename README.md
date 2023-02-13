@@ -101,6 +101,24 @@ At this point, the app runs at `http://127.0.0.1:8000/`.
 
 <br />
 
+## Start In Docker
+
+> 👉 Edit `Dockerfile` to set `GITHUB_TOKEN` in the Environment. Important: don't SHARE or commit the value on GitHub (is automatically invalidated)
+
+```Docker
+ENV GITHUB_TOKEN <YOUR_TOKEN_HERE>
+```
+
+> 👉 Start the app 
+
+```bash
+$ docker-compose up --build
+```
+
+At this point, the app runs at `http://127.0.0.1:5085/`. 
+
+<br />
+
 ## Codebase structure
 
 The project is coded using a simple and intuitive structure presented below:
